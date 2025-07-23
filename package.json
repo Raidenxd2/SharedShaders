@@ -1,14 +1,11 @@
 {
   "name": "com.raiden.sharedshaders",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "Shared Shaders",
   "unity": "2022.3",
   "description": "Shared Shaders",
   "author": {
     "name": "Raidenxd2",
     "url": "https://raidenxd2.github.io/"
-  },
-  "dependencies": {
-    "com.unity.shadergraph": "14.0.12"
   }
 }
